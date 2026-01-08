@@ -1,0 +1,7 @@
+{
+  "name": "SaudaBook - Contract & Inventory Manager",
+  "description": "A robust contract management and inventory tracking system for edible oil traders with multi-item support, real-time analytics, and multilingual capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
